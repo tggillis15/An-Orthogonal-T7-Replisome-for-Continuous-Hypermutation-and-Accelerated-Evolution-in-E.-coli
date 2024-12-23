@@ -1,0 +1,16 @@
+data_filepath,/gpfs/group/home/tgillis/mutspectra_pilot/merge_and_filter_starterpack_v7
+pear_filepath,/gpfs/group/home/tgillis/software/pear-0.9.11-linux-x86_64/bin/pear,
+pear_overlap,115,
+pear_stattest,1,
+pear_pvalue,0.01,
+merge,TRUE,
+compiler_filepath,/gpfs/group/home/tgillis/software/gcc-build/bin/g++
+cpus,40,
+memory,900G,
+disk,400G,
+instrument,novaseq,
+q_floor,30,
+q_cutoff,35,
+cutoff_pct,0.95,
+sample_names,Tem49-96
+reorganize,TRUE,
